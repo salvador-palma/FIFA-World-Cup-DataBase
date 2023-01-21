@@ -1,0 +1,71 @@
+body {
+    background: linear-gradient(to right, #339992, #555fcc);
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    
+}
+.table{
+    background-color: rgb(53, 157, 183);
+}
+.container {
+
+    margin: auto;
+    background-color: rgb(255,255,255,0.6);
+    width: 25%;
+    height: 50%;
+    border-radius: 50px;
+    padding: 10px 50px 65px 50px;
+    margin-top: 10%;
+}
+
+.input-fields {
+    padding-top: 5px;
+}
+
+.input-fields-container {
+    padding-top: 20px;
+}
+
+.input-field {
+    border: solid 2px #c2c2c2;
+    height:20px;
+    border-radius: 100px;
+}
+
+.input-label {
+    font-family: sans-serif;
+}
+
+.titulo {
+    font-size: 32px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.advanced{
+    font-family:sand-serif;
+    font-size:22px;
+    color:white;
+}
+.globe {
+    height: 100px;
+    width: 100px;
+}
+
+.submit-button {   
+    background-color: rgb(255, 255, 255,1);
+    border: none;
+    border-radius: 100px;
+    color: rgb(38, 38, 38);
+    padding: 16px 32px;
+    margin: 4px 2px;
+    cursor: pointer;
+    font-weight: bold;
+    font-size:20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.submit-button:hover {
+    background-color:  rgb(255, 255, 255,0.2);
+    color:rgb(38, 38, 38);
+}
+
